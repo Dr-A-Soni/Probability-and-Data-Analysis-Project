@@ -22,4 +22,4 @@ Your submission should be a single HTML file that results from knitting your Rmd
 5. Are the research questions well defined and is it clear why they are of interest to the author / audience? Are appropriate numbers of variables used in each research            question?
 6. Are appropriate summary statistics calculated, and are they explained/interpreted in context of the data and the research question?
 7. Are appropriate visualizations included, and are they explained/interpreted in context of the data and the research question?
-8  Did the writer address what the findings from the exploratory analysis suggest about the research question?
+8. Did the writer address what the findings from the exploratory analysis suggest about the research question?
