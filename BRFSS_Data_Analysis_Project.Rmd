@@ -100,16 +100,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ### ***Research Questions:***
   
 **Research Question 1:**
+
     Does smoking play any role in causing asthma? Is there any correlation between Asthma and Smoking?
-    If so, how it affects its occurrence and how differently it affects male and female?
+    If there is any correlation than does the asthma treatment can be affected by smoking? Does it leads to 
+    longer treatment period? We also analyse how the corrlation of asthma occurrance and its treatment period
+    are different female and male?
 
 **Research Question 2:**
-    Does the Sleep have any effects on the mental health of an individual? Does the sleep pattern in male and female
-    have similar effects on their mental health or different?
+
+    Is there any correlation between sleep time and Depression? Does lack of sleep cause depression?
+      If so how does it have similar effect on both sexes or different??
 
 **Research Question 3:**
-    Is there any correlation between the marital status and the mental health of individual?
-    If there is how it affects both sexes, and is that demographic similar in different regions of US or different?
+    
+    Does the marital status have any effect on the mental health of an individual? 
+    Is there any correlation between the marital status and the mental health of individuals?
+    If there is how it affects both sexes, and is there any demographic similarities in across different
+    regions of US?
 
 ### ***Exploratory Data Analysis:***
 
