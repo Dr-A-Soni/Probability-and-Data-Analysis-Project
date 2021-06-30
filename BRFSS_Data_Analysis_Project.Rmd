@@ -118,13 +118,6 @@ knitr::opts_chunk$set(echo = TRUE)
     If there is how it affects both sexes, and is there any demographic similarities in across different
     regions of US?
 
-**Research Question 3:**
-
-    Does the marital status have any effect on the mental health of an individual? 
-    Is there any correlation between the marital status and the mental health of individuals?
-    If there is how it affects both sexes, and is there any demographic similarities in across different
-    regions of US?
-    
 ### ***Exploratory Data Analysis:***
 
     Loading the required packages and Data for this Analysis.
